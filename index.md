@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Seth Luke's Github Programming Page
 
 You can use the [editor on GitHub](https://github.com/9680018/9680018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
